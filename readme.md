@@ -20,10 +20,10 @@ J'ai ajouté des méthodes demandés dans les classes Movie et Director et les 3
 ## Étape 4 : Agrégation (dans un fichier à part, utilisez la collection de votre choix)
 
 Les quatres agrégations demandées sont faites et se trouvent dans le dossier aggregation. C'est possible aussi de les afficher à partir du menu principal. Voici les résultats des 4:
-![Screenshot of the results of the first aggregation exercise ](assets\agr_1.png)
-![Screenshot of the results of the second aggregation exercise ](assets\agr_2.png)
-![Screenshot of the results of the third aggregation exercise ](assets\agr_3.png)
-![Screenshot of the results of the fourth aggregation exercise ](assets\agr_4.png)
+![Screenshot of the results of the first aggregation exercise ](assets/agr_1.png)
+![Screenshot of the results of the second aggregation exercise ](assets/agr_2.png)
+![Screenshot of the results of the third aggregation exercise ](assets/agr_3.png)
+![Screenshot of the results of the fourth aggregation exercise ](assets/agr_4.png)
 
 ## Bonus : Utilisation avancées POO + Mongo
 
